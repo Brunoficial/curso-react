@@ -1,4 +1,4 @@
-import AddTask from "./components/addTasks";
+import AddTask from "./components/AddTasks";
 import Tasks from "./components/Tasks";
 import { useEffect, useState } from "react";
 
